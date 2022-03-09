@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Introduction de la barre de navigation */
+nav{
+    background-image: url(/assets/img/header_bg.jpg);
+    height: 200px;
+}
+
+.nav img{
+    width: 25%;
+}
+
+/*Contenu numéro 1 */
+.container1{
+    background-image: url(/assets/img/header_bg.jpg);
+    
+}
+
+.container-fluid{
+    height: 900px;
+}
+
+/* Ajout d'un backgrond-image */
+.bloc{
+    background-image: url(/assets/img/map_bg.png);
+    height: 500px;
+}
+
+/* separator2 */
+.separator2{
+    background-image: url(/assets/img/seperator2.jpg);
+    height: 300px;
+}
+
+/* container3 */
+.best{
+    height: 600px;
+}
